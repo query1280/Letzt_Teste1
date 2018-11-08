@@ -1,0 +1,10 @@
+C:\CSharp_pro\Letzt_teste_Csharp_Mit_Gruppe\Teste_Earst\Teste_Earst\bin\Debug\Teste_Earst.exe.config
+C:\CSharp_pro\Letzt_teste_Csharp_Mit_Gruppe\Teste_Earst\Teste_Earst\bin\Debug\Teste_Earst.exe
+C:\CSharp_pro\Letzt_teste_Csharp_Mit_Gruppe\Teste_Earst\Teste_Earst\bin\Debug\Teste_Earst.pdb
+C:\CSharp_pro\Letzt_teste_Csharp_Mit_Gruppe\Teste_Earst\Teste_Earst\obj\Debug\Teste_Earst.csprojAssemblyReference.cache
+C:\CSharp_pro\Letzt_teste_Csharp_Mit_Gruppe\Teste_Earst\Teste_Earst\obj\Debug\Teste_Earst.Form1.resources
+C:\CSharp_pro\Letzt_teste_Csharp_Mit_Gruppe\Teste_Earst\Teste_Earst\obj\Debug\Teste_Earst.Properties.Resources.resources
+C:\CSharp_pro\Letzt_teste_Csharp_Mit_Gruppe\Teste_Earst\Teste_Earst\obj\Debug\Teste_Earst.csproj.GenerateResource.cache
+C:\CSharp_pro\Letzt_teste_Csharp_Mit_Gruppe\Teste_Earst\Teste_Earst\obj\Debug\Teste_Earst.csproj.CoreCompileInputs.cache
+C:\CSharp_pro\Letzt_teste_Csharp_Mit_Gruppe\Teste_Earst\Teste_Earst\obj\Debug\Teste_Earst.exe
+C:\CSharp_pro\Letzt_teste_Csharp_Mit_Gruppe\Teste_Earst\Teste_Earst\obj\Debug\Teste_Earst.pdb

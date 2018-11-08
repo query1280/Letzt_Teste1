@@ -1,0 +1,6 @@
+C:\CSharp_pro\Letzt_teste_Csharp_Mit_Gruppe\Teste_Earst\Logic_UI\bin\Debug\Logic_UI.exe.config
+C:\CSharp_pro\Letzt_teste_Csharp_Mit_Gruppe\Teste_Earst\Logic_UI\bin\Debug\Logic_UI.exe
+C:\CSharp_pro\Letzt_teste_Csharp_Mit_Gruppe\Teste_Earst\Logic_UI\bin\Debug\Logic_UI.pdb
+C:\CSharp_pro\Letzt_teste_Csharp_Mit_Gruppe\Teste_Earst\Logic_UI\obj\Debug\Logic_UI.csproj.CoreCompileInputs.cache
+C:\CSharp_pro\Letzt_teste_Csharp_Mit_Gruppe\Teste_Earst\Logic_UI\obj\Debug\Logic_UI.exe
+C:\CSharp_pro\Letzt_teste_Csharp_Mit_Gruppe\Teste_Earst\Logic_UI\obj\Debug\Logic_UI.pdb
